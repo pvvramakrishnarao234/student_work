@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "378184048977",
+    "project_id": "new-shishir",
+    "storage_bucket": "new-shishir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378184048977:android:7de51e507e780880ae3370",
+        "android_client_info": {
+          "package_name": "com.example.new_shishir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378184048977-n7vuhsubl2j0qqlkm27ipbqj595cuqae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPfV_Xytsq0fDF2DjMAyaOqkrr51dbBow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378184048977-n7vuhsubl2j0qqlkm27ipbqj595cuqae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
